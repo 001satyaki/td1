@@ -1,5 +1,5 @@
 body{
-  background-color: #EEF1FF;
+  background-color: #08062B;
 }
 h1{
   color: #66BFBF;
@@ -22,10 +22,10 @@ hr{
   background-color: Red;
 }
 #Heading{
-  background-color : blue;
+  background: #08062B;
   text-align: center;
   border-style: solid;
-  color: white;
+
   font-size: 4rem;
   margin: 0 auto 0 auto;
 }
@@ -33,10 +33,12 @@ hr{
   color: Gold;
 }
 .p1{
-  margin: 100px auto 100px auto;
-  color: Gold;
+  margin: 8% auto 5% auto;
+  color: white;
   font-size: 3rem;
 }
 .p2{
-  font-size: 150%;
+  font-size: 2rem;
+  text-align: right;
+  margin-right: 20px;
 }
